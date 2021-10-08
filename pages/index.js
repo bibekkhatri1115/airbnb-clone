@@ -111,8 +111,8 @@ export async function getStaticProps() {
     (res) => res.json()
   );
 
-  const panelData = await fetch("http://localhost:3000/api/getaway").then(
-    (res) => res.json()
+  const panelData = await fetch("https://jsonkeeper.com/b/Z0XY").then((res) =>
+    res.json()
   );
 
   return {
