@@ -1,0 +1,18 @@
+[
+    {
+        "img": "/img/outdoor.webp",
+        "title": "Outdoor getaways"
+    },
+    {
+        "img": "/img/unique.webp",
+        "title": "Unique stays"
+    },
+    {
+        "img": "/img/entire-home.webp",
+        "title": "Entire homes"
+    },
+    {
+        "img": "/img/pet.webp",
+        "title": "Pet allowed"
+    }
+]

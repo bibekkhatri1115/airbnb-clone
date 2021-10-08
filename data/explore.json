@@ -1,0 +1,42 @@
+[
+    {
+        "img": "/img/kathmandu.webp",
+        "location": "Kathmandu",
+        "distance": "15 minute drive"
+    },
+    {
+        "img": "/img/lalitpur.webp",
+        "location": "Lalitpur",
+        "distance": "15 minute drive"
+    },
+    {
+        "img": "/img/pokhara.webp",
+        "location": "Pokhara",
+        "distance": "3.5 hour drive"
+    },
+    {
+        "img": "/img/york.webp",
+        "location": "Bhaktapur",
+        "distance": "30 minute drive"
+    },
+    {
+        "img": "/img/bhaktapur-metro.jpg",
+        "location": "Bhaktapur Metro",
+        "distance": "2.5 hour drive"
+    },
+    {
+        "img": "/img/kirtipur.png",
+        "location": "Kirtipur",
+        "distance": "30 minute drive"
+    },
+    {
+        "img": "/img/godawari.jpg",
+        "location": "Godawari",
+        "distance": "30 minute drive"
+    },
+    {
+        "img": "/img/dhulikhel.png",
+        "location": "Dhulikhel",
+        "distance": "30 minute drive"
+    }
+]

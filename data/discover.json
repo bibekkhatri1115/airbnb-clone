@@ -1,0 +1,17 @@
+[
+    {
+        "img": "/img/experiences.jpg",
+        "title": "Experiences",
+        "description": "Find unforgettable activities near you."
+    },
+    {
+        "img": "/img/onine-experiences.jpg",
+        "title": "Online Experiences",
+        "description": "Live, interactive activities led by Hosts."
+    },
+    {
+        "img": "/img/wanderlust.jpg",
+        "title": "Featured collection: Wanderlust",
+        "description": "Travel from home with Online Experiences."
+    }
+]
