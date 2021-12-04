@@ -7,7 +7,7 @@ import LargeCard from "../components/LargeCard";
 import MediumCard from "../components/MediumCard";
 import Panel from "../components/Panel";
 import SmallCard from "../components/SmallCard";
-import TransparentHeader from "../components/TransparentHeader";
+// import TransparentHeader from "../components/TransparentHeader";
 
 export default function Home({
   exploreData,
