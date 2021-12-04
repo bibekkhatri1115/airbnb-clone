@@ -6,4 +6,27 @@
   .link {
     @apply hover:underline cursor-pointer;
   }
+  .button {
+    @apply px-4 py-2 border rounded-full 
+    hover:cursor-pointer hover:shadow-lg 
+    active:scale-95 active:bg-gray-100 
+    transition duration-100 ease-out;
+  }
+}
+
+@layer utilities {
+  .border-right {
+    position: relative;
+    /* border-right: 1px solid black; */
+  }
+  .border-right::after {
+    content: " ";
+    position: absolute !important;
+    border-right: 1px lightgray solid;
+    top: 30%;
+    right: 0;
+    height: 50% !important;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
 }

@@ -50,9 +50,15 @@ function Footer() {
         <div className="hidden px-24 py-5 text-sm text-gray-800 md:flex justify-between">
           <div className="flex">
             <div>© 2021 Airbnb, Clone</div>
-            <div className="link px-2"> · Privacy</div>
-            <div className="link px-2"> · Terms</div>
-            <div className="link px-2"> · Sitemap</div>
+            <div className="px-2">
+              · <span className="link">Privacy</span>
+            </div>
+            <div className="px-2">
+              · <span className="link">Terms</span>
+            </div>
+            <div className="px-2">
+              · <span className="link">Sitemap</span>
+            </div>
           </div>
           <div className="flex">
             <div className="flex content-center ">

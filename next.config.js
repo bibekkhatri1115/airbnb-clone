@@ -1,6 +1,6 @@
-// module.exports = {
-//     images: {
-//         // domain for images
-//         domains: [""],
-//     }
-// }
+module.exports = {
+  images: {
+    // domain for images
+    domains: ["links.papareact.com"],
+  },
+};

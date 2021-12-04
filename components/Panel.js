@@ -29,7 +29,10 @@ function Panel({ panelData }) {
       </div>
       <div className="flex flex-wrap">
         {places?.map(({ place, location }) => (
-          <div className="w-[50%] md:w-[33%] lg:w-[25%]  pt-5 cursor-pointer">
+          <div
+            key={place}
+            className="w-[50%] md:w-[33%] lg:w-[25%]  pt-5 cursor-pointer"
+          >
             <div className="text-sm font-normal text-gray-800">{place}</div>
             <div className="text-sm font-normal text-gray-400">{location}</div>
           </div>
